@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level>
+  <LevelInfo>
+    <BPM>93</BPM>
+    <BeatPerBar>4</BeatPerBar>
+    <BeatLen>16</BeatLen>
+    <EnterTimeAdjust>250</EnterTimeAdjust>
+    <NotePreShow>1</NotePreShow>
+    <LevelTime>141935</LevelTime>
+    <BarAmount>55</BarAmount>
+    <BeginBarLen>4</BeginBarLen>
+    <IsFourTrack>True</IsFourTrack>
+    <TrackCount>4</TrackCount>
+    <LevelPreTime>4000</LevelPreTime>
+  </LevelInfo>
+  <MusicInfo>
+    <Title>Whataya Want from Me</Title>
+    <Artist>Adam Lambert</Artist>
+    <FilePath>audio/bgm/101964</FilePath>
+  </MusicInfo>
+  <SectionSeq>
+    <Section type="previous" endbar="0" mark="" param1="wutai_scene_pre_script_1" />
+    <Section type="begin" startbar="1" endbar="4" mark="" param1="wutai_scene_begin_script_1" />
+    <Section type="note" startbar="5" endbar="24" mark="" param1="" />
+    <Section type="showtime" startbar="25" endbar="28" mark="dance" param1="" />
+    <Section type="note" startbar="31" endbar="51" mark="" param1="" />
+    <Section type="showtime" startbar="52" endbar="55" mark="pose_xuanku" param1="" />
+  </SectionSeq>
+  <IndicatorResetPos PosNum="64" />
+  <NoteInfo>
+    <Normal>
+      <Note Bar="5" length="1" level="1" />
+      <Note Bar="6" length="1" level="2" />
+      <Note Bar="7" length="1" level="3" />
+      <Note Bar="8" length="1" level="3" />
+      <Note Bar="9" length="2" level="3" />
+      <Note Bar="11" length="2" level="3" />
+      <Note Bar="13" length="2" level="4" />
+      <Note Bar="15" length="2" level="4" />
+      <Note Bar="17" length="2" level="4" />
+      <Note Bar="19" length="2" level="4" />
+      <Note Bar="21" length="2" level="5" />
+      <Note Bar="23" length="2" level="5" />
+      <Note Bar="25" length="4" level="5" />
+      <Note Bar="31" length="1" level="1" />
+      <Note Bar="32" length="1" level="2" />
+      <Note Bar="33" length="1" level="3" />
+      <Note Bar="34" length="2" level="3" />
+      <Note Bar="36" length="2" level="3" />
+      <Note Bar="38" length="2" level="3" />
+      <Note Bar="40" length="2" level="4" />
+      <Note Bar="42" length="2" level="4" />
+      <Note Bar="44" length="2" level="4" />
+      <Note Bar="46" length="2" level="4" />
+      <Note Bar="48" length="2" level="5" />
+      <Note Bar="50" length="2" level="5" />
+      <Note Bar="52" length="4" level="5" />
+    </Normal>
+  </NoteInfo>
+  <ActionSeq type="1">
+    <ActionList start_bar="5" dance_len="1" seq_len="4" level="2" type="" />
+    <ActionList start_bar="9" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="13" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="17" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="21" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="25" dance_len="4" seq_len="4" level="2" type="" />
+    <ActionList start_bar="29" dance_len="1" seq_len="1" level="2" type="" />
+    <ActionList start_bar="30" dance_len="1" seq_len="4" level="2" type="" />
+    <ActionList start_bar="34" dance_len="2" seq_len="2" level="2" type="" />
+    <ActionList start_bar="36" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="40" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="44" dance_len="2" seq_len="8" level="2" type="" />
+    <ActionList start_bar="52" dance_len="4" seq_len="4" level="2" type="" />
+  </ActionSeq>
+  <CameraSeq>
+    <Camera name="SL" bar="5" pos="0" end_bar="7" end_pos="0" />
+    <Camera name="NL" bar="7" pos="0" end_bar="9" end_pos="0" />
+    <Camera name="YAOBI_FN_03" bar="9" pos="0" end_bar="13" end_pos="0" />
+    <Camera name="BL" bar="13" pos="0" end_bar="15" end_pos="0" />
+    <Camera name="NC" bar="15" pos="0" end_bar="17" end_pos="0" />
+    <Camera name="YAOBI_LR_06" bar="17" pos="0" end_bar="21" end_pos="0" />
+    <Camera name="YAOBI_RL_12" bar="21" pos="0" end_bar="25" end_pos="0" />
+    <Camera name="FC" bar="25" pos="0" end_bar="29" end_pos="0" />
+    <Camera name="YAOBI_LR_01" bar="29" pos="0" end_bar="32" end_pos="0" />
+    <Camera name="SR" bar="32" pos="0" end_bar="34" end_pos="0" />
+    <Camera name="TR" bar="34" pos="0" end_bar="36" end_pos="0" />
+    <Camera name="YAOBI_BF_01" bar="36" pos="0" end_bar="40" end_pos="0" />
+    <Camera name="NC" bar="40" pos="0" end_bar="42" end_pos="0" />
+    <Camera name="YAOBI_UD_CENTER" bar="42" pos="0" end_bar="44" end_pos="0" />
+    <Camera name="YAOBI_RL_07" bar="44" pos="0" end_bar="48" end_pos="0" />
+    <Camera name="YAOBI_LR_08" bar="48" pos="0" end_bar="52" end_pos="0" />
+    <Camera name="FC" bar="52" pos="0" end_bar="56" end_pos="0" />
+  </CameraSeq>
+  <DancerSort>
+    <Bar>11</Bar>
+    <Bar>13</Bar>
+    <Bar>15</Bar>
+    <Bar>17</Bar>
+    <Bar>19</Bar>
+    <Bar>21</Bar>
+    <Bar>23</Bar>
+    <Bar>31</Bar>
+    <Bar>32</Bar>
+    <Bar>33</Bar>
+    <Bar>34</Bar>
+    <Bar>36</Bar>
+    <Bar>38</Bar>
+    <Bar>40</Bar>
+    <Bar>42</Bar>
+    <Bar>44</Bar>
+    <Bar>46</Bar>
+    <Bar>48</Bar>
+    <Bar>50</Bar>
+  </DancerSort>
+  <StageEffectSeq>
+    <effect name="wutai_scene_global_script" bar="-1" length="-1" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="5" length="20" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="29" length="23" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="56" length="-1" />
+  </StageEffectSeq>
+</Level>

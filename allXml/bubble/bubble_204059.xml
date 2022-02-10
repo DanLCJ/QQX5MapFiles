@@ -1,0 +1,960 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Level>
+  <LevelInfo>
+    <BPM>100</BPM>
+    <BeatPerBar>4</BeatPerBar>
+    <BeatLen>16</BeatLen>
+    <EnterTimeAdjust>100</EnterTimeAdjust>
+    <NotePreShow>2</NotePreShow>
+    <LevelTime>153600</LevelTime>
+    <BarAmount>64</BarAmount>
+    <BeginBarLen>4</BeginBarLen>
+    <IsFourTrack>False</IsFourTrack>
+    <TrackCount>5</TrackCount>
+    <LevelPreTime>4000</LevelPreTime>
+    <Type>Bubble</Type>
+  </LevelInfo>
+  <MusicInfo>
+    <Title>No title</Title>
+    <Artist>Reol</Artist>
+    <FilePath>audio/bgm/104059</FilePath>
+  </MusicInfo>
+  <SectionSeq>
+    <Section type="previous" endbar="0" mark="" param1="wutai_scene_pre_script_1" />
+    <Section type="begin" startbar="1" endbar="4" mark="" param1="wutai_scene_begin_script_1" />
+    <Section type="note" startbar="5" endbar="28" mark="" param1="" />
+    <Section type="showtime" startbar="29" endbar="32" mark="dance" param1="" />
+    <Section type="note" startbar="35" endbar="60" mark="" param1="" />
+    <Section type="showtime" startbar="61" endbar="64" mark="pose_xuanku" param1="" />
+  </SectionSeq>
+  <IndicatorResetPos PosNum="64">
+    <Pos Bar="5" BeatPos="0" />
+    <Pos Bar="7" BeatPos="0" />
+    <Pos Bar="9" BeatPos="0" />
+    <Pos Bar="11" BeatPos="0" />
+    <Pos Bar="12" BeatPos="60" />
+    <Pos Bar="14" BeatPos="60" />
+    <Pos Bar="16" BeatPos="60" />
+    <Pos Bar="18" BeatPos="60" />
+    <Pos Bar="21" BeatPos="0" />
+    <Pos Bar="23" BeatPos="0" />
+    <Pos Bar="25" BeatPos="0" />
+    <Pos Bar="27" BeatPos="0" />
+    <Pos Bar="35" BeatPos="0" />
+    <Pos Bar="37" BeatPos="0" />
+    <Pos Bar="39" BeatPos="0" />
+    <Pos Bar="40" BeatPos="60" />
+    <Pos Bar="42" BeatPos="60" />
+    <Pos Bar="44" BeatPos="60" />
+    <Pos Bar="46" BeatPos="60" />
+    <Pos Bar="49" BeatPos="0" />
+    <Pos Bar="51" BeatPos="0" />
+    <Pos Bar="53" BeatPos="0" />
+    <Pos Bar="55" BeatPos="0" />
+    <Pos Bar="57" BeatPos="0" />
+    <Pos Bar="59" BeatPos="0" />
+  </IndicatorResetPos>
+  <NoteInfo>
+    <Normal PosNum="64">
+      <Note Bar="5" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="5" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="260.8652" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="5" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="174.4834" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="5" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="84.2346" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="6" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="6" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="250" y="200">
+          <FlyTrack name="波浪形" degree="227.7969" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="6" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="176.2909" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="6" BeatPos="40" Track="0" Type="0">
+        <ScreenPos x="-500" y="0">
+          <FlyTrack name="波浪形" degree="150.7107" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="6" BeatPos="48" Track="0" Type="1" EndBar="7" EndPos="0" ID="1">
+        <MoveTrack name="长按弧" degree="2.117625" />
+        <FlyTrack name="波浪形" degree="126.9668" />
+        <ScreenPos x="-400" y="-175" />
+      </Note>
+      <Note Bar="7" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="262.6" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="7" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="150" y="200">
+          <FlyTrack name="波浪形" degree="171.9849" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="7" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="140.2801" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="7" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="-175" y="-200">
+          <FlyTrack name="波浪形" degree="351.4068" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="8" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="8" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="262.7433" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="8" BeatPos="32" Track="0" Type="1" EndBar="9" EndPos="0" ID="2">
+        <MoveTrack name="长按波浪2拍" degree="38.42191" />
+        <FlyTrack name="波浪形" degree="175.2392" />
+        <ScreenPos x="-400" y="200" />
+      </Note>
+      <Note Bar="9" BeatPos="8" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="9" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="550" y="-225">
+          <FlyTrack name="波浪形" degree="83.80356" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="9" BeatPos="32" Track="0" Type="1" EndBar="10" EndPos="0" ID="3">
+        <MoveTrack name="长按S形" degree="0" />
+        <FlyTrack name="波浪形" degree="106.8631" />
+        <ScreenPos x="350" y="-225" />
+      </Note>
+      <Note Bar="10" BeatPos="8" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="172.9521" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="10" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="-550" y="-225">
+          <FlyTrack name="波浪形" degree="85.48035" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="10" BeatPos="32" Track="0" Type="1" EndBar="11" EndPos="0" ID="4">
+        <MoveTrack name="长按S形" degree="45.13144" />
+        <FlyTrack name="波浪形" degree="63.41804" />
+        <ScreenPos x="-350" y="-225" />
+      </Note>
+      <Note Bar="11" BeatPos="4" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="11" BeatPos="32" Track="0" Type="1" EndBar="12" EndPos="0" ID="5">
+        <MoveTrack name="长按小山" degree="-146.2002" />
+        <FlyTrack name="波浪形" degree="173.9604" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="12" BeatPos="4" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="29.45461" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="12" BeatPos="32" Track="1" Type="1" EndBar="13" EndPos="0" ID="6">
+        <MoveTrack name="长按小山" degree="-209.2283" />
+        <FlyTrack name="波浪形" degree="175.9771" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="12" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="-2.75705" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="13" BeatPos="12" Track="0" Type="1" EndBar="13" EndPos="28" ID="7">
+        <MoveTrack name="长按弧" degree="171.4726" />
+        <FlyTrack name="波浪形" degree="120.155" />
+        <ScreenPos x="300" y="-200" />
+      </Note>
+      <Note Bar="13" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="170.0438" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="13" BeatPos="44" Track="0" Type="1" EndBar="13" EndPos="60" ID="8">
+        <MoveTrack name="长按弧" degree="8.527359" />
+        <FlyTrack name="波浪形" degree="53.53344" />
+        <ScreenPos x="-300" y="-200" />
+      </Note>
+      <Note Bar="13" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="14" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="82.07888" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="14" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="175" y="0">
+          <FlyTrack name="波浪形" degree="203.3402" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="14" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="-150" y="200">
+          <FlyTrack name="波浪形" degree="206.4095" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="14" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="174.7711" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="15" BeatPos="12" Track="0" Type="1" EndBar="15" EndPos="28" ID="9">
+        <MoveTrack name="长按弧" degree="-19.80077" />
+        <FlyTrack name="波浪形" degree="51.94287" />
+        <ScreenPos x="-300" y="-200" />
+      </Note>
+      <Note Bar="15" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="4.82107" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="15" BeatPos="44" Track="0" Type="1" EndBar="15" EndPos="60" ID="10">
+        <MoveTrack name="长按弧" degree="144.6305" />
+        <FlyTrack name="波浪形" degree="228.6159" />
+        <ScreenPos x="250" y="200" />
+      </Note>
+      <Note Bar="15" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="172.3766" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="16" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="81.97111" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="16" BeatPos="32" Track="0" Type="1" EndBar="16" EndPos="56" ID="11">
+        <MoveTrack name="长按直线1.5" degree="-126.255" />
+        <FlyTrack name="波浪形" degree="0" />
+        <ScreenPos x="225" y="-200" />
+      </Note>
+      <Note Bar="16" BeatPos="60" Track="0" Type="1" EndBar="17" EndPos="12" ID="12">
+        <MoveTrack name="长按直线2" degree="0" />
+        <FlyTrack name="波浪形" degree="265.7023" />
+        <ScreenPos x="-475" y="200" />
+      </Note>
+      <Note Bar="17" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="425" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="17" BeatPos="28" Track="0" Type="1" EndBar="17" EndPos="44" ID="13">
+        <MoveTrack name="长按直线2" degree="-179.8987" />
+        <FlyTrack name="波浪形" degree="84.71007" />
+        <ScreenPos x="425" y="-200" />
+      </Note>
+      <Note Bar="17" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="177.3592" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="17" BeatPos="60" Track="0" Type="1" EndBar="18" EndPos="12" ID="14">
+        <MoveTrack name="长按直线2" degree="43.84887" />
+        <FlyTrack name="波浪形" degree="304.9296" />
+        <ScreenPos x="-250" y="200" />
+      </Note>
+      <Note Bar="18" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="18" BeatPos="32" Track="0" Type="1" EndBar="18" EndPos="56" ID="15">
+        <MoveTrack name="长按直线1.5" degree="-130.9949" />
+        <FlyTrack name="波浪形" degree="135.0174" />
+        <ScreenPos x="125" y="-200" />
+      </Note>
+      <Note Bar="18" BeatPos="60" Track="0" Type="1" EndBar="19" EndPos="12" ID="16">
+        <MoveTrack name="长按弧" degree="0" />
+        <FlyTrack name="波浪形" degree="262.8861" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="19" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-125" y="-200">
+          <FlyTrack name="波浪形" degree="16.88684" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="19" BeatPos="40" Track="0" Type="0">
+        <ScreenPos x="-125" y="0">
+          <FlyTrack name="波浪形" degree="5.604706" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="19" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="-125" y="200">
+          <FlyTrack name="波浪形" degree="-7.132721" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="19" BeatPos="60" Track="0" Type="1" EndBar="20" EndPos="12" ID="17">
+        <MoveTrack name="长按弧" degree="180" />
+        <FlyTrack name="波浪形" degree="-97.93822" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="20" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="125" y="-200">
+          <FlyTrack name="波浪形" degree="145.2564" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="20" BeatPos="40" Track="0" Type="0">
+        <ScreenPos x="125" y="0">
+          <FlyTrack name="波浪形" degree="-201.8964" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="20" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="125" y="200">
+          <FlyTrack name="波浪形" degree="-182.8651" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="21" BeatPos="0" Track="0" Type="1" EndBar="21" EndPos="24" ID="18">
+        <MoveTrack name="长按直线1.5" degree="0" />
+        <FlyTrack name="波浪形" degree="259.5091" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="21" BeatPos="28" Track="0" Type="2" EndBar="21" EndPos="44" ID="19">
+        <MoveTrack name="滑动弧对称" degree="-139.1831" />
+        <FlyTrack name="波浪形" degree="23.74805" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="22" BeatPos="0" Track="0" Type="1" EndBar="22" EndPos="24" ID="20">
+        <MoveTrack name="长按直线1.5" degree="-180.3596" />
+        <FlyTrack name="波浪形" degree="265.8123" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="22" BeatPos="28" Track="0" Type="2" EndBar="22" EndPos="44" ID="21">
+        <MoveTrack name="滑动弧" degree="-43.44735" />
+        <FlyTrack name="波浪形" degree="158.2746" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="23" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="150" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="23" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="150" y="-175">
+          <FlyTrack name="波浪形" degree="83.25709" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="23" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="-175">
+          <FlyTrack name="波浪形" degree="175.325" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="23" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="263.2545" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="24" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="0" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="24" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="175" y="0">
+          <FlyTrack name="波浪形" degree="148.4251" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="24" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="0">
+          <FlyTrack name="波浪形" degree="174.764" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="24" BeatPos="44" Track="0" Type="2" EndBar="24" EndPos="60" ID="22">
+        <MoveTrack name="滑动弧对称" degree="-92.33704" />
+        <FlyTrack name="波浪形" degree="25.63484" />
+        <ScreenPos x="-200" y="-200" />
+      </Note>
+      <Note Bar="25" BeatPos="0" Track="0" Type="1" EndBar="25" EndPos="24" ID="23">
+        <MoveTrack name="长按直线1.5" degree="90.74471" />
+        <FlyTrack name="波浪形" degree="0" />
+        <ScreenPos x="150" y="200" />
+      </Note>
+      <Note Bar="25" BeatPos="28" Track="0" Type="2" EndBar="25" EndPos="44" ID="24">
+        <MoveTrack name="滑动1拍直线" degree="179.8175" />
+        <FlyTrack name="波浪形" degree="149.3423" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="26" BeatPos="0" Track="0" Type="1" EndBar="26" EndPos="24" ID="25">
+        <MoveTrack name="长按直线1.5" degree="90.28365" />
+        <FlyTrack name="波浪形" degree="353.7823" />
+        <ScreenPos x="-150" y="200" />
+      </Note>
+      <Note Bar="26" BeatPos="28" Track="0" Type="2" EndBar="26" EndPos="44" ID="26">
+        <MoveTrack name="滑动1拍直线" degree="-180.3913" />
+        <FlyTrack name="波浪形" degree="33.49801" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="27" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-150" y="200">
+          <FlyTrack name="波浪形" degree="174.7318" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="27" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-150" y="-175">
+          <FlyTrack name="波浪形" degree="86.87766" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="27" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="-175">
+          <FlyTrack name="波浪形" degree="-4.810791" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="27" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="-97.99133" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="28" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="171.3596" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="28" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-225" y="0">
+          <FlyTrack name="波浪形" degree="26.91974" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="28" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="100" y="-200">
+          <FlyTrack name="波浪形" degree="22.61247" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="28" BeatPos="32" Track="0" Type="2" EndBar="28" EndPos="48" ID="27">
+        <MoveTrack name="滑动弧对称" degree="-118.6192" />
+        <FlyTrack name="波浪形" degree="37.65982" />
+        <ScreenPos x="300" y="-200" />
+      </Note>
+      <Note Bar="35" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="82.59998" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="35" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="-150" y="-200">
+          <FlyTrack name="波浪形" degree="351.9849" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="35" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="320.2801" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="35" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="175" y="200">
+          <FlyTrack name="波浪形" degree="171.4069" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="36" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="36" BeatPos="16" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="82.74329" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="36" BeatPos="32" Track="0" Type="1" EndBar="37" EndPos="0" ID="28">
+        <MoveTrack name="长按波浪2拍" degree="218.4219" />
+        <FlyTrack name="波浪形" degree="355.2391" />
+        <ScreenPos x="400" y="-200" />
+      </Note>
+      <Note Bar="37" BeatPos="8" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="37" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="-550" y="225">
+          <FlyTrack name="波浪形" degree="263.8036" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="37" BeatPos="32" Track="0" Type="1" EndBar="38" EndPos="0" ID="29">
+        <MoveTrack name="长按S形" degree="180" />
+        <FlyTrack name="波浪形" degree="286.8631" />
+        <ScreenPos x="-350" y="225" />
+      </Note>
+      <Note Bar="38" BeatPos="8" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="352.9521" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="38" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="550" y="225">
+          <FlyTrack name="波浪形" degree="265.4803" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="38" BeatPos="32" Track="0" Type="1" EndBar="39" EndPos="0" ID="30">
+        <MoveTrack name="长按S形" degree="225.1314" />
+        <FlyTrack name="波浪形" degree="243.418" />
+        <ScreenPos x="350" y="225" />
+      </Note>
+      <Note Bar="39" BeatPos="4" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="39" BeatPos="32" Track="0" Type="1" EndBar="40" EndPos="0" ID="31">
+        <MoveTrack name="长按小山" degree="33.7998" />
+        <FlyTrack name="波浪形" degree="353.9604" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="40" BeatPos="4" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="209.4546" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="40" BeatPos="32" Track="1" Type="1" EndBar="41" EndPos="0" ID="32">
+        <MoveTrack name="长按小山" degree="-29.22829" />
+        <FlyTrack name="波浪形" degree="355.9771" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="40" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="177.243" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="41" BeatPos="12" Track="0" Type="1" EndBar="41" EndPos="28" ID="33">
+        <MoveTrack name="长按弧" degree="351.4727" />
+        <FlyTrack name="波浪形" degree="300.155" />
+        <ScreenPos x="-300" y="200" />
+      </Note>
+      <Note Bar="41" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="350.0438" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="41" BeatPos="44" Track="0" Type="1" EndBar="41" EndPos="60" ID="34">
+        <MoveTrack name="长按弧" degree="188.5274" />
+        <FlyTrack name="波浪形" degree="233.5334" />
+        <ScreenPos x="300" y="200" />
+      </Note>
+      <Note Bar="41" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="42" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="262.0789" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="42" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="-175" y="0">
+          <FlyTrack name="波浪形" degree="23.34021" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="42" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="150" y="-200">
+          <FlyTrack name="波浪形" degree="26.40948" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="42" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="354.7711" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="43" BeatPos="12" Track="0" Type="1" EndBar="43" EndPos="28" ID="35">
+        <MoveTrack name="长按弧" degree="160.1992" />
+        <FlyTrack name="波浪形" degree="231.9429" />
+        <ScreenPos x="300" y="200" />
+      </Note>
+      <Note Bar="43" BeatPos="28" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="184.8211" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="43" BeatPos="44" Track="0" Type="1" EndBar="43" EndPos="60" ID="36">
+        <MoveTrack name="长按弧" degree="324.6305" />
+        <FlyTrack name="波浪形" degree="48.61591" />
+        <ScreenPos x="-250" y="-200" />
+      </Note>
+      <Note Bar="43" BeatPos="60" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="352.3766" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="44" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="261.9711" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="44" BeatPos="32" Track="0" Type="1" EndBar="44" EndPos="56" ID="37">
+        <MoveTrack name="长按直线1.5" degree="53.74505" />
+        <FlyTrack name="波浪形" degree="180" />
+        <ScreenPos x="-225" y="200" />
+      </Note>
+      <Note Bar="44" BeatPos="60" Track="0" Type="1" EndBar="45" EndPos="12" ID="38">
+        <MoveTrack name="长按直线2" degree="180" />
+        <FlyTrack name="波浪形" degree="85.7023" />
+        <ScreenPos x="475" y="-200" />
+      </Note>
+      <Note Bar="45" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-425" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="45" BeatPos="28" Track="0" Type="1" EndBar="45" EndPos="44" ID="39">
+        <MoveTrack name="长按直线2" degree="0.1013336" />
+        <FlyTrack name="波浪形" degree="264.7101" />
+        <ScreenPos x="-425" y="200" />
+      </Note>
+      <Note Bar="45" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="550" y="200">
+          <FlyTrack name="波浪形" degree="357.3592" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="45" BeatPos="60" Track="0" Type="1" EndBar="46" EndPos="12" ID="40">
+        <MoveTrack name="长按直线2" degree="223.8489" />
+        <FlyTrack name="波浪形" degree="124.9296" />
+        <ScreenPos x="250" y="-200" />
+      </Note>
+      <Note Bar="46" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="46" BeatPos="32" Track="0" Type="1" EndBar="46" EndPos="56" ID="41">
+        <MoveTrack name="长按直线1.5" degree="49.00513" />
+        <FlyTrack name="波浪形" degree="315.0174" />
+        <ScreenPos x="-125" y="200" />
+      </Note>
+      <Note Bar="46" BeatPos="60" Track="0" Type="1" EndBar="47" EndPos="12" ID="42">
+        <MoveTrack name="长按弧" degree="180" />
+        <FlyTrack name="波浪形" degree="82.88611" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="47" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="125" y="200">
+          <FlyTrack name="波浪形" degree="196.8868" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="47" BeatPos="40" Track="0" Type="0">
+        <ScreenPos x="125" y="0">
+          <FlyTrack name="波浪形" degree="185.6047" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="47" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="125" y="-200">
+          <FlyTrack name="波浪形" degree="172.8673" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="47" BeatPos="60" Track="0" Type="1" EndBar="48" EndPos="12" ID="43">
+        <MoveTrack name="长按弧" degree="360" />
+        <FlyTrack name="波浪形" degree="82.06178" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="48" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-125" y="200">
+          <FlyTrack name="波浪形" degree="325.2564" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="48" BeatPos="40" Track="0" Type="0">
+        <ScreenPos x="-125" y="0">
+          <FlyTrack name="波浪形" degree="-21.89644" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="48" BeatPos="48" Track="0" Type="0">
+        <ScreenPos x="-125" y="-200">
+          <FlyTrack name="波浪形" degree="-2.865143" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="49" BeatPos="0" Track="0" Type="1" EndBar="49" EndPos="24" ID="44">
+        <MoveTrack name="长按直线1.5" degree="180" />
+        <FlyTrack name="波浪形" degree="79.50912" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="49" BeatPos="28" Track="0" Type="2" EndBar="49" EndPos="44" ID="45">
+        <MoveTrack name="滑动弧对称" degree="40.81686" />
+        <FlyTrack name="波浪形" degree="203.748" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="50" BeatPos="0" Track="0" Type="1" EndBar="50" EndPos="24" ID="46">
+        <MoveTrack name="长按直线1.5" degree="-0.3596497" />
+        <FlyTrack name="波浪形" degree="85.81226" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="50" BeatPos="28" Track="0" Type="2" EndBar="50" EndPos="44" ID="47">
+        <MoveTrack name="滑动弧" degree="136.5526" />
+        <FlyTrack name="波浪形" degree="338.2746" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="51" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-150" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="51" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-150" y="175">
+          <FlyTrack name="波浪形" degree="263.2571" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="51" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="175">
+          <FlyTrack name="波浪形" degree="355.325" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="51" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="83.25446" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="52" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="52" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-175" y="0">
+          <FlyTrack name="波浪形" degree="328.4251" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="52" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="0">
+          <FlyTrack name="波浪形" degree="354.764" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="52" BeatPos="44" Track="0" Type="2" EndBar="52" EndPos="60" ID="48">
+        <MoveTrack name="滑动弧对称" degree="87.66296" />
+        <FlyTrack name="波浪形" degree="205.6348" />
+        <ScreenPos x="200" y="200" />
+      </Note>
+      <Note Bar="53" BeatPos="0" Track="0" Type="1" EndBar="53" EndPos="24" ID="49">
+        <MoveTrack name="长按直线1.5" degree="270.7447" />
+        <FlyTrack name="波浪形" degree="180" />
+        <ScreenPos x="-150" y="-200" />
+      </Note>
+      <Note Bar="53" BeatPos="28" Track="0" Type="2" EndBar="53" EndPos="44" ID="50">
+        <MoveTrack name="滑动1拍直线" degree="359.8175" />
+        <FlyTrack name="波浪形" degree="329.3423" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="54" BeatPos="0" Track="0" Type="1" EndBar="54" EndPos="24" ID="51">
+        <MoveTrack name="长按直线1.5" degree="270.2836" />
+        <FlyTrack name="波浪形" degree="173.7823" />
+        <ScreenPos x="150" y="-200" />
+      </Note>
+      <Note Bar="54" BeatPos="28" Track="0" Type="2" EndBar="54" EndPos="44" ID="52">
+        <MoveTrack name="滑动1拍直线" degree="-0.3913422" />
+        <FlyTrack name="波浪形" degree="213.498" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="55" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="150" y="-200">
+          <FlyTrack name="波浪形" degree="354.7318" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="55" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="150" y="175">
+          <FlyTrack name="波浪形" degree="266.8777" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="55" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="-550" y="175">
+          <FlyTrack name="波浪形" degree="175.1892" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="55" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="82.00867" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="56" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="550" y="-200">
+          <FlyTrack name="波浪形" degree="351.3596" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="56" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="225" y="0">
+          <FlyTrack name="波浪形" degree="206.9197" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="56" BeatPos="24" Track="0" Type="0">
+        <ScreenPos x="-100" y="200">
+          <FlyTrack name="波浪形" degree="202.6125" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="56" BeatPos="32" Track="0" Type="2" EndBar="56" EndPos="48" ID="53">
+        <MoveTrack name="滑动弧对称" degree="61.3808" />
+        <FlyTrack name="波浪形" degree="217.6598" />
+        <ScreenPos x="-300" y="200" />
+      </Note>
+      <Note Bar="57" BeatPos="0" Track="0" Type="1" EndBar="57" EndPos="24" ID="54">
+        <MoveTrack name="长按直线1.5" degree="180" />
+        <FlyTrack name="波浪形" degree="79.50912" />
+        <ScreenPos x="550" y="-200" />
+      </Note>
+      <Note Bar="57" BeatPos="28" Track="0" Type="2" EndBar="57" EndPos="44" ID="55">
+        <MoveTrack name="滑动弧对称" degree="40.81686" />
+        <FlyTrack name="波浪形" degree="203.748" />
+        <ScreenPos x="-550" y="200" />
+      </Note>
+      <Note Bar="58" BeatPos="0" Track="0" Type="1" EndBar="58" EndPos="24" ID="56">
+        <MoveTrack name="长按直线1.5" degree="-0.3596497" />
+        <FlyTrack name="波浪形" degree="85.81226" />
+        <ScreenPos x="-550" y="-200" />
+      </Note>
+      <Note Bar="58" BeatPos="28" Track="0" Type="2" EndBar="58" EndPos="44" ID="57">
+        <MoveTrack name="滑动弧" degree="136.5526" />
+        <FlyTrack name="波浪形" degree="338.2746" />
+        <ScreenPos x="550" y="200" />
+      </Note>
+      <Note Bar="59" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="-200">
+          <FlyTrack name="波浪形" degree="180" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="59" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-250" y="175">
+          <FlyTrack name="波浪形" degree="302.1433" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="59" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="175">
+          <FlyTrack name="波浪形" degree="355.325" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="59" BeatPos="44" Track="0" Type="0">
+        <ScreenPos x="250" y="-200">
+          <FlyTrack name="波浪形" degree="126.401" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="60" BeatPos="0" Track="0" Type="0">
+        <ScreenPos x="-550" y="200">
+          <FlyTrack name="波浪形" degree="173.8511" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="60" BeatPos="12" Track="0" Type="0">
+        <ScreenPos x="-175" y="0">
+          <FlyTrack name="波浪形" degree="20.80763" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="60" BeatPos="32" Track="0" Type="0">
+        <ScreenPos x="550" y="0">
+          <FlyTrack name="波浪形" degree="-2.714447" />
+        </ScreenPos>
+      </Note>
+      <Note Bar="60" BeatPos="44" Track="0" Type="2" EndBar="60" EndPos="60" ID="58">
+        <MoveTrack name="滑动弧" degree="-92.7258" />
+        <FlyTrack name="波浪形" degree="147.6373" />
+        <ScreenPos x="200" y="-200" />
+      </Note>
+    </Normal>
+  </NoteInfo>
+  <ActionSeq type="1">
+    <ActionList start_bar="5" dance_len="1" seq_len="4" level="2" type="" />
+    <ActionList start_bar="9" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="13" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="17" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="21" dance_len="2" seq_len="8" level="2" type="" />
+    <ActionList start_bar="29" dance_len="4" seq_len="4" level="2" type="" />
+    <ActionList start_bar="33" dance_len="1" seq_len="4" level="2" type="" />
+    <ActionList start_bar="37" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="41" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="45" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="49" dance_len="2" seq_len="8" level="2" type="" />
+    <ActionList start_bar="57" dance_len="2" seq_len="4" level="2" type="" />
+    <ActionList start_bar="61" dance_len="4" seq_len="4" level="2" type="" />
+  </ActionSeq>
+  <CameraSeq>
+    <Camera name="YAOBI_LR_02" bar="5" pos="0" end_bar="7" end_pos="0" />
+    <Camera name="YAOBI_NF_01" bar="7" pos="0" end_bar="9" end_pos="0" />
+    <Camera name="NL" bar="9" pos="0" end_bar="10" end_pos="0" />
+    <Camera name="SR" bar="10" pos="0" end_bar="11" end_pos="0" />
+    <Camera name="YAOBI_RL_07" bar="11" pos="0" end_bar="13" end_pos="0" />
+    <Camera name="YAOBI_LR_04" bar="13" pos="0" end_bar="15" end_pos="0" />
+    <Camera name="YAOBI_RL_05" bar="15" pos="0" end_bar="17" end_pos="0" />
+    <Camera name="YAOBI_NF_01" bar="17" pos="0" end_bar="19" end_pos="0" />
+    <Camera name="YAOBI_RL_01" bar="19" pos="0" end_bar="21" end_pos="0" />
+    <Camera name="FL" bar="21" pos="0" end_bar="22" end_pos="0" />
+    <Camera name="NR" bar="22" pos="0" end_bar="23" end_pos="0" />
+    <Camera name="YAOBI_RL_04" bar="23" pos="0" end_bar="25" end_pos="0" />
+    <Camera name="BR" bar="25" pos="0" end_bar="26" end_pos="0" />
+    <Camera name="SC" bar="26" pos="0" end_bar="27" end_pos="0" />
+    <Camera name="YAOBI_NF_04" bar="27" pos="0" end_bar="29" end_pos="0" />
+    <Camera name="NC" bar="29" pos="0" end_bar="33" end_pos="0" />
+    <Camera name="YAOBI_LR_05" bar="33" pos="0" end_bar="35" end_pos="0" />
+    <Camera name="YAOBI_RL_12" bar="35" pos="0" end_bar="37" end_pos="0" />
+    <Camera name="TC" bar="37" pos="0" end_bar="38" end_pos="0" />
+    <Camera name="SR" bar="38" pos="0" end_bar="39" end_pos="0" />
+    <Camera name="YAOBI_NF_02" bar="39" pos="0" end_bar="41" end_pos="0" />
+    <Camera name="YAOBI_RL_07" bar="41" pos="0" end_bar="43" end_pos="0" />
+    <Camera name="YAOBI_LR_04" bar="43" pos="0" end_bar="45" end_pos="0" />
+    <Camera name="BL" bar="45" pos="0" end_bar="46" end_pos="0" />
+    <Camera name="FR" bar="46" pos="0" end_bar="47" end_pos="0" />
+    <Camera name="YAOBI_RL_07" bar="47" pos="0" end_bar="49" end_pos="0" />
+    <Camera name="SC" bar="49" pos="0" end_bar="50" end_pos="0" />
+    <Camera name="TC" bar="50" pos="0" end_bar="51" end_pos="0" />
+    <Camera name="YAOBI_LR_09" bar="51" pos="0" end_bar="53" end_pos="0" />
+    <Camera name="BL" bar="53" pos="0" end_bar="54" end_pos="0" />
+    <Camera name="SR" bar="54" pos="0" end_bar="55" end_pos="0" />
+    <Camera name="YAOBI_NF_04" bar="55" pos="0" end_bar="57" end_pos="0" />
+    <Camera name="NL" bar="57" pos="0" end_bar="58" end_pos="0" />
+    <Camera name="FC" bar="58" pos="0" end_bar="59" end_pos="0" />
+    <Camera name="YAOBI_RL_03" bar="59" pos="0" end_bar="61" end_pos="0" />
+    <Camera name="NC" bar="61" pos="0" end_bar="65" end_pos="0" />
+  </CameraSeq>
+  <DancerSort>
+    <Bar>11</Bar>
+    <Bar>13</Bar>
+    <Bar>15</Bar>
+    <Bar>17</Bar>
+    <Bar>19</Bar>
+    <Bar>21</Bar>
+    <Bar>23</Bar>
+    <Bar>25</Bar>
+    <Bar>27</Bar>
+    <Bar>35</Bar>
+    <Bar>36</Bar>
+    <Bar>37</Bar>
+    <Bar>39</Bar>
+    <Bar>41</Bar>
+    <Bar>43</Bar>
+    <Bar>45</Bar>
+    <Bar>47</Bar>
+    <Bar>49</Bar>
+    <Bar>51</Bar>
+    <Bar>53</Bar>
+    <Bar>55</Bar>
+    <Bar>57</Bar>
+    <Bar>59</Bar>
+  </DancerSort>
+  <StageEffectSeq>
+    <effect name="wutai_scene_global_script" bar="-1" length="-1" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="5" length="24" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="33" length="28" />
+    <effect name="wutai_scene_note_biaozhun_01" bar="65" length="-1" />
+  </StageEffectSeq>
+</Level>
